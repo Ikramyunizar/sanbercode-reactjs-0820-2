@@ -37,6 +37,16 @@ h1 {
 .App-intro {
   font-size: large;
 }
+.formattabel{
+  height: 70%;
+  width: 70% ;
+  text-align  : center;
+}
+.formatcell{
+  width: 200px ;
+  border: 1px solid;
+  margin: 0px;
+}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
